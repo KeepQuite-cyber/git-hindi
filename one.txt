@@ -1,2 +1,1 @@
 This is the file number 1.
-Add another file to the folder and commit it.
